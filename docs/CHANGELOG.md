@@ -50,21 +50,26 @@ Latest changes
 
  - Build system:
    * binutils (kernel) 2.18/2.22/2.23.2/2.24/2.25.1/2.26.1/2.31.1/2.36.1
-   * binutils (target) 2.22/2.23.2/2.24/2.25.1/2.26.1/2.31.1/2.36.1/2.41/2.43.1
+   * binutils (target) 2.22/2.23.2/2.24/2.25.1/2.26.1/2.31.1/2.36.1/2.43.1
    * ca-bundle 2024-09-24
    * gcc (kernel) 3.4.6/4.6.4/4.7.4/4.8.5/5.5.0/8.3.0/8.4.0/9.3.0/9.4.0
    * gcc (target) 4.6.4/4.7.4/4.8.5/4.9.4/5.5.0/8.3.0/8.4.0/9.3.0/13.3.0/13.4.0/14.2.0
    * uClibc 0.9.28/0.9.29/0.9.32.1/0.9.33.2/1.0.14/1.0.50
 
  - Host tools:
-   * cmake 3.30.3
+   * busybox 1.37.0
+   * cmake 3.30.4
    * fakeroot 1.36
+   * kconfig 6.11
    * meson 1.5.2
    * openssl 3.0.15
+   * precompiled host-tools 2024-09-28
    * python 3.12.6
 
  - AVM sources:
-   * 5690-pro 7.62 - 5.4.213
+   * 5690 pro 7.62 - 5.4.213
+   * 7530 ax  8.00 - 4.19.183 (corrupt)
+   * 7590 ax  8.00 - 4.9.325 (corrupt)
 
  - Patches:
    * Various Fritzos 8.0 related changes
@@ -73,6 +78,7 @@ Latest changes
    * ACME.sh 3.0.9
    * Atop 2.11.0
    * BIND 9.11.37/9.20.2
+   * BusyBox 1.27.2/1.37.0
    * CA-bundle 2024-09-24
    * Curl 8.10.1
    * Git 2.46.2
@@ -80,6 +86,7 @@ Latest changes
    * ImageMagick 7.1.1-38
    * mc (Midnight Commander) 4.8.31/4.8.32
    * Nano 8.2
+   * OpenSSH 9.3p2/9.9p1
    * OpenSSL 0.9.8zh/1.0.2u/1.1.1w/3.0.15
    * RPCBind 1.2.7
    * RRDtool 1.2.30/1.9.0
@@ -87,8 +94,8 @@ Latest changes
    * strace 4.9/5.0/6.11
    * Stunnel 5.73
    * SQLite 3.40.1/3.46.1
+   * tmux 3.5
    * Unbound 1.21.0
-   * UnRAR 6.1.7/6.2.12/7.0.9
 
  - Libraries:
    * expat 2.6.3
@@ -100,6 +107,7 @@ Latest changes
    * libdeflate 1.21
    * libmaxminddb 1.11.0
    * libnettle 3.10
+   * libpng 1.6.44
    * liburcu 0.14.0
    * libuv 1.44.2/1.49.0
    * libxml2 2.13.4

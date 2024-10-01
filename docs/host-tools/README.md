@@ -12,13 +12,13 @@ Index: [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H]
 
 ### B
 
-  * **[busybox 1.36.1](busybox-host.md)<a id='busybox-host'></a>**<br>
+  * **[busybox 1.37.0](busybox-host.md)<a id='busybox-host'></a>**<br>
 
 ### C
 
   * **[ca-bundle 2024-09-24](ca-bundle-host.md)<a id='ca-bundle-host'></a>**<br>
 
-  * **[cmake 3.30.3](cmake-host.md)<a id='cmake-host'></a>**<br>
+  * **[cmake 3.30.4](cmake-host.md)<a id='cmake-host'></a>**<br>
 
   * **[cpio 2.15](cpio-host.md)<a id='cpio-host'></a>**<br>
 
@@ -50,7 +50,7 @@ Index: [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H]
 
 ### K
 
-  * **[kconfig 6.10](kconfig-host.md)<a id='kconfig-host'></a>**<br>
+  * **[kconfig 6.11](kconfig-host.md)<a id='kconfig-host'></a>**<br>
 
 ### L
 
@@ -130,7 +130,7 @@ Index: [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H]
 
   * **[tichksum 1.0](tichksum-host.md)<a id='tichksum-host'></a>**<br>
 
-  * **[tools 2024-07-29](tools-host.md)<a id='tools-host'></a>**<br>
+  * **[tools 2024-09-28](tools-host.md)<a id='tools-host'></a>**<br>
 
 ### U
 

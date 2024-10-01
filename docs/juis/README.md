@@ -91,15 +91,14 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
 ### FOS-Inhaus
  - HWR 185: [FRITZ.Box_7490-07.57-113062-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL2/7490/FRITZ.Box_7490-07.57-113062-Inhaus.image)
  - HWR 206: [FRITZ.Box_WLAN_Repeater_1750E-07.31-111633-Inhaus.image](http://download.avm.de/inhaus/WU22PSQ19/1750E/FRITZ.Box_WLAN_Repeater_1750E-07.31-111633-Inhaus.image)
- - HWR 226: [FRITZ.Box_7590-07.90-115955-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7590/FRITZ.Box_7590-07.90-115955-Inhaus.image)
+ - HWR 226: [FRITZ.Box_7590-07.90-116114-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7590/FRITZ.Box_7590-07.90-116114-Inhaus.image)
  - HWR 227: [FRITZ.Box_4040-07.90-115910-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/4040/FRITZ.Box_4040-07.90-115910-Inhaus.image)
- - HWR 236: [FRITZ.Box_7530-07.90-115946-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7530/FRITZ.Box_7530-07.90-115946-Inhaus.image)
+ - HWR 236: [FRITZ.Box_7530-07.90-116105-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7530/FRITZ.Box_7530-07.90-116105-Inhaus.image)
  - HWR 240: [FRITZ.Repeater_600-07.57-111452-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/600/FRITZ.Repeater_600-07.57-111452-Inhaus.image)
- - HWR 247: [FRITZ.Box_7520-07.90-115794-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7520/FRITZ.Box_7520-07.90-115794-Inhaus.image)
+ - HWR 247: [FRITZ.Box_7520-07.90-115940-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7520/FRITZ.Box_7520-07.90-115940-Inhaus.image)
  - HWR 249: [FRITZ.Powerline_1260-07.57-111465-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/1260/FRITZ.Powerline_1260-07.57-111465-Inhaus.image)
  - HWR 253: [FRITZ.Repeater_6000-07.57-112923-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/6000/FRITZ.Repeater_6000-07.57-112923-Inhaus.image)
- - HWR 256: [FRITZ.Box_7530_AX-07.90-115674-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7530AX/FRITZ.Box_7530_AX-07.90-115674-Inhaus.image)
- - HWR 257: [FRITZ.Box_5530_Fiber-07.90-115934-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/5530Fiber/FRITZ.Box_5530_Fiber-07.90-115934-Inhaus.image)
+ - HWR 257: [FRITZ.Box_5530_Fiber-07.90-116041-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/5530Fiber/FRITZ.Box_5530_Fiber-07.90-116041-Inhaus.image)
  - HWR 258: [FRITZ.Box_6850_5G-07.90-115770-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/68505G/FRITZ.Box_6850_5G-07.90-115770-Inhaus.image)
  - HWR 259: [FRITZ.Box_7590_AX-08.00-115906-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7590AX/FRITZ.Box_7590_AX-08.00-115906-Inhaus.image)
  - HWR 261: [FRITZ.Box_4060-07.90-115913-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/4060/FRITZ.Box_4060-07.90-115913-Inhaus.image)
@@ -107,9 +106,9 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
  - HWR 263: [FRITZ.Repeater_600v2-07.57-111457-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/600v2/FRITZ.Repeater_600v2-07.57-111457-Inhaus.image)
  - HWR 268: [FRITZ.Repeater_1200_AX-07.57-112910-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/1200AX/FRITZ.Repeater_1200_AX-07.57-112910-Inhaus.image)
  - HWR 270: [FRITZ.Repeater_3000_AX-07.57-112912-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.57-112912-Inhaus.image)
- - HWR 271: [FRITZ.Box_7510-07.90-115791-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7510/FRITZ.Box_7510-07.90-115791-Inhaus.image)
+ - HWR 271: [FRITZ.Box_7510-07.90-115937-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7510/FRITZ.Box_7510-07.90-115937-Inhaus.image)
  - HWR 272: [FRITZ.Box_5590_Fiber-07.90-115931-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/5590Fiber/FRITZ.Box_5590_Fiber-07.90-115931-Inhaus.image)
- - HWR 276: [FRITZ.Box_7520_B-07.90-115797-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7520B/FRITZ.Box_7520_B-07.90-115797-Inhaus.image)
+ - HWR 276: [FRITZ.Box_7520_B-07.90-115943-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7520B/FRITZ.Box_7520_B-07.90-115943-Inhaus.image)
  - HWR 278: [FRITZ.Box_7530_AX_B-07.90-115731-Inhaus.image](http://download.avm.de/inhaus/Smart24P1FCS/7530AXB/FRITZ.Box_7530_AX_B-07.90-115731-Inhaus.image)
 
 ### Dect-Release
@@ -150,4 +149,4 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
 ### Dect-Inhaus
 
 ### BPjM
- - CRC d05ed6c6: [bpjm_20240828_bpjm-modul_09_24.txt.data](http://download.avm.de/bpjm/253900/bpjm_20240828_bpjm-modul_09_24.txt.data)
+ - CRC 723dad4b: [bpjm_20240930_bpjm-modul_10_24.txt.data](http://download.avm.de/bpjm/256342/bpjm_20240930_bpjm-modul_10_24.txt.data)
